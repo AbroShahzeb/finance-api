@@ -16,10 +16,6 @@ echo "New changes copied to server !"
 echo "Installing Dependencies..."
 npm install --yes
 
-# Creating a build 
-echo "Building application"
-npm run build
-
 
 # Restarting server
 echo "Restarting server"
